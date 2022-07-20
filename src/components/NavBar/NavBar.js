@@ -1,8 +1,9 @@
+import './NavBar/NavBar.css'
 const NavBar = () => {
     return (
         <div>
             <h1>Saint Shit</h1>
-            <ul className="menu">
+            <ul className="navbar-primary">
                 <li>Inicio</li>
                 <li>Productos</li>
                 <li>Contacto</li>
