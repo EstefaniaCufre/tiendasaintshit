@@ -2,7 +2,7 @@ import './NavBar.css'
 const NavBar = () => {
     return (
         <div>
-            <h1>Saint Shit</h1>
+            <img className="banner" src="/assets/logo.jpg" alt="banner"/>
             <ul className="navbar-primary">
                 <li>Inicio</li>
                 <li>Productos</li>
